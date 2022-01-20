@@ -1,0 +1,10 @@
+---
+content_type: resource
+description: This resource contains the reflections on the workshop on deliberative
+  democracy and dispute resolution at MIT by David Fairman.
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/788414bd0de53d242ddaf0a396283bfa_fairman_refpdf.pdf
+file_type: application/pdf
+resourcetype: Document
+title: fairman_refpdf.pdf
+uid: 788414bd-0de5-3d24-2dda-f0a396283bfa
+---
