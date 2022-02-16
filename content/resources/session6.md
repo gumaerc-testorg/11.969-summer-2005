@@ -3,8 +3,13 @@ content_type: resource
 description: This resource contains information on relationship between dispute resolution
   and deliberative democracy,criteria for deliberative democracy, bias in mediation
   and unjust process.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/285f65c0e99a456f5bde92fa8c999760_session6.pdf
+file: /media/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/285f65c0e99a456f5bde92fa8c999760_session6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: session6.pdf
 uid: 285f65c0-e99a-456f-5bde-92fa8c999760

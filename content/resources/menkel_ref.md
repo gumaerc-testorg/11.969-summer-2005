@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains the reflections on the workshop on deliberative
   democracy and dispute resolution at MIT by Carrie Menkel-Meadow.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/84689afa5c7f936f6b63f7bdd3baca6d_menkel_ref.pdf
+file: /media/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/84689afa5c7f936f6b63f7bdd3baca6d_menkel_ref.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Reflections
+parent_type: CourseSection
 resourcetype: Document
 title: menkel_ref.pdf
 uid: 84689afa-5c7f-936f-6b63-f7bdd3baca6d

@@ -3,8 +3,13 @@ content_type: resource
 description: This resource conatains information on the topic - National-level Consensus
   Building and its details like - process, criteria for deliberative democracy and
   bias in mediation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/951de1ad287745e297e7aaee01bb8a3f_session4.pdf
+file: /media/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/951de1ad287745e297e7aaee01bb8a3f_session4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: session4.pdf
 uid: 951de1ad-2877-45e2-97e7-aaee01bb8a3f

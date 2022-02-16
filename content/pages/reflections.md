@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Reflections
 uid: 5efb6cbf-8be1-d826-ca42-afb8549867d4
 ---
