@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reflections
 parent_type: CourseSection
+parent_uid: 5efb6cbf-8be1-d826-ca42-afb8549867d4
 resourcetype: Document
 title: sclavi_ref.pdf
 uid: 3e3da09f-26db-6e78-b5eb-e185ead7f445

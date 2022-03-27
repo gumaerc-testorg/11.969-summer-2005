@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reflections
 parent_type: CourseSection
+parent_uid: 5efb6cbf-8be1-d826-ca42-afb8549867d4
 resourcetype: Document
 title: isaacs_ref.pdf
 uid: 229079a3-7d00-4628-0ec1-4f13673f0119

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reflections
 parent_type: CourseSection
+parent_uid: 5efb6cbf-8be1-d826-ca42-afb8549867d4
 resourcetype: Document
 title: menkel_ref.pdf
 uid: 84689afa-5c7f-936f-6b63-f7bdd3baca6d

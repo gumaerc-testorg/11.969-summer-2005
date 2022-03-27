@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reflections
 parent_type: CourseSection
+parent_uid: 5efb6cbf-8be1-d826-ca42-afb8549867d4
 resourcetype: Document
 title: booher_ref.pdf
 uid: c69f6542-73bf-9830-5007-96bbb8b01c1e

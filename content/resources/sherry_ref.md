@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Reflections
 parent_type: CourseSection
+parent_uid: 5efb6cbf-8be1-d826-ca42-afb8549867d4
 resourcetype: Document
 title: sherry_ref.pdf
 uid: a0e49c3c-44ef-cd25-d84b-f3c8f205e0a8
