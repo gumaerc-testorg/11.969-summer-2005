@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The calendar section gives information on the sessions and topics of
+  the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

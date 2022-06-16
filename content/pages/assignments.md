@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section gives the various scenarios of the workshops
+  conducted in the course duration.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
