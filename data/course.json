@@ -36,7 +36,7 @@
     "website": "11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005"
   },
   "course_title": "Workshop on Deliberative Democracy and Dispute Resolution",
-  "course_description": "The Workshop on Deliberative Democracy and Dispute Resolution, sponsored by the Program on Negotiation at Harvard Law School and [_The Flora and William Hewlett Foundation_](http://www.hewlett.org/), is a two-day conference that brings together dispute resolution professionals and political theorists in the field of deliberative democracy.\n",
+  "course_description": "The Workshop on Deliberative Democracy and Dispute Resolution, sponsored by the Program on Negotiation at Harvard Law School and {{% resource_link \"ef6dbdc7-ee84-4a34-b8d7-adf76d950ff7\" \"_The Flora and William Hewlett Foundation_\" %}}, is a two-day conference that brings together dispute resolution professionals and political theorists in the field of deliberative democracy.\n",
   "department_numbers": [
     "11"
   ],
