@@ -18,7 +18,7 @@ videos:
   - 22ba599e-f7ec-05da-ae99-07ebf547d085
   website: 11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005
 ---
-The facilitators and panelists attending this workshop are leaders in the fields of dispute resolution and deliberative democracy. Bios for the presenters and a summary of the workshop proceedings are available below. Notes from individual sessions are listed in the table. In addition, [clips](#clips) from a video recording of the entire workshop have been included. A full-length video of all the sessions, entitled "Deliberative Democracy Meets Dispute Resolution," is available through the Clearinghouse of the Program on Negotiation at Harvard Law School ([www.pon.harvard.edu](http://www.pon.harvard.edu/)).
+The facilitators and panelists attending this workshop are leaders in the fields of dispute resolution and deliberative democracy. Bios for the presenters and a summary of the workshop proceedings are available below. Notes from individual sessions are listed in the table. In addition, [clips](#clips) from a video recording of the entire workshop have been included. A full-length video of all the sessions, entitled "Deliberative Democracy Meets Dispute Resolution," is available through the Clearinghouse of the Program on Negotiation at Harvard Law School ({{% resource_link "ad94b324-ddc8-4d66-b002-70f0ea968e16" "www.pon.harvard.edu" %}}).
 
 Presenter Bios ({{% resource_link 26d65673-efb1-96b8-f077-cdfc6008892f "PDF" %}}) 
 
