@@ -11,11 +11,11 @@ uid: d83ca385-7283-c1df-17f4-12bb5776b89f
 Political Theory Readings
 -------------------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/public-deliberation) Bohman, James, ed. "What is Public Deliberation: A Dialogical Account." In [_Public Deliberation: Pluralism, Complexity, and Democracy_](https://mitpress.mit.edu/books/public-deliberation). Cambridge, MA: MIT Press, 1996, pp. 23-69. ISBN: 0262522780.
+{{% resource_link "15b18bd8-b9c9-46fa-8302-6ee3d66a2e02" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bohman, James, ed. "What is Public Deliberation: A Dialogical Account." In {{% resource_link "15b18bd8-b9c9-46fa-8302-6ee3d66a2e02" "_Public Deliberation: Pluralism, Complexity, and Democracy_" %}}. Cambridge, MA: MIT Press, 1996, pp. 23-69. ISBN: 0262522780.
 
 James Bohman complains that most democratic theorists talk about public deliberation, but do not bother to describe what it actually is. He then seeks to do so himself by explaining "what makes deliberation public, what it can really accomplish, and when it is actually successful." Bohman outlines a number of dialogical mechanisms used in the process of public deliberation and discusses how they affect public reason. Bohman discusses the obstacles to public deliberation in large, diverse societies.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/deliberative-democracy) Cohen, Joshua. "Procedure and Substance in Deliberative Democracy." In [_Deliberative Democracy: Essays on Reason and Politics_](https://mitpress.mit.edu/books/deliberative-democracy). Edited by James Bohman and William Rehg. Cambridge, MA: MIT Press, 1997, pp. 405-437. ISBN: 0262522411.
+{{% resource_link "d4955e3d-c09e-416b-9517-5de588620877" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Cohen, Joshua. "Procedure and Substance in Deliberative Democracy." In {{% resource_link "d4955e3d-c09e-416b-9517-5de588620877" "_Deliberative Democracy: Essays on Reason and Politics_" %}}. Edited by James Bohman and William Rehg. Cambridge, MA: MIT Press, 1997, pp. 405-437. ISBN: 0262522411.
 
 Josh Cohen sets out to counter the argument that reasonable pluralism reduces democracy to a purely procedural process that is devoid of values-driven decision making. Rather, he proposes, reasonable pluralism, combined with a deliberative approach to democracy introduces the values of equality and liberty, as captured by principles of deliberative inclusion, the common good, and participation.
 
@@ -46,7 +46,7 @@ Iris Marion Young sets up a dialogue between two idealized characters, an activi
 Dispute Resolution Readings
 ---------------------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/deliberative-practitioner) Forester, John F., ed. "Beyond Dialogue to Transformative Learning..." In [_The Deliberative Practitioner: Encouraging Participatory Planning Processes_](https://mitpress.mit.edu/books/deliberative-practitioner). Cambridge, MA: MIT Press, 1999, pp. 115-153. ISBN: 0262561220.
+{{% resource_link "64ff51ab-da0d-4395-ae40-d20e3c3cb261" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Forester, John F., ed. "Beyond Dialogue to Transformative Learning..." In {{% resource_link "64ff51ab-da0d-4395-ae40-d20e3c3cb261" "_The Deliberative Practitioner: Encouraging Participatory Planning Processes_" %}}. Cambridge, MA: MIT Press, 1999, pp. 115-153. ISBN: 0262561220.
 
 John Forester suggests that as people take part in deliberative processes, they learn a great deal about the value of what they're deliberating over and about themselves and their relationships to one another. Through deliberation, participants gain "more of value than they at first appreciate…and so with a literally surprising, deliberative political rationality far richer than accounts of decision-making rationality or rational choice allow." Forester presents four cases of participatory action research; briefly identifies limitations of the Deweyan and Freirean models of learning; and further expounds on his argument by discussing the significance of ritual performance in deliberation.
 
@@ -74,7 +74,7 @@ Susskind and Cruikshank. "Theory and Practice of Dispute Resolution and Sources 
 
 Lawrence Susskind and Jeffrey Cruikshank first distinguish between two categories of disputes: distributional (dealing primarily with the allotment of resources) and constitutional (particular to questions of human or civil rights) and suggest a consensual approach to resolving distributional disputes. The authors criticize political solutions of compromise and identify and expound upon four characteristics of a good negotiated settlement: fairness, efficiency, wisdom, and stability. They discuss the obstacles to implementing political solutions, citing historical causes and identifying five flaws in America's representative democracy: tyranny of the majority, lack of long-term commitment, shortcomings of the voting process, technical complexity overwhelming sloganeering, and the winner-takes-all mindset.
 
-"Five Stages of Collaborative Decision Making on Public Issues." ([PDF](https://www.cce.csus.edu/sites/main/files/file-attachments/five_stages_diaghram.pdf))  
+"Five Stages of Collaborative Decision Making on Public Issues." ({{% resource_link "bcd1378c-5f1d-4a81-863b-9b525cfb6d89" "PDF" %}})  
 One-page summary of the collaborative decision making process, produced by the Center for Collaborative Policy at California State University, Sacramento.
 
 Participant-Submitted Readings
@@ -86,7 +86,7 @@ Fung, Archon. "Deliberation Before the Revolution." _Political Theory_ 33, no. 2
 
 Rothman, Jay. "The Cincinnati Police-Community Relations Collaborative." _Criminal Justice_ 18, no.4 (Winter 2004): 35-42. American Bar Association.
 
-Sclavi: Why Understanding The Bronx Requires the Humorist's Touch. ([PDF](http://softhook.com/complexity/wp-content/themes/mimbo2.2/images/04b-dossier-appendix-a-lady-goes-to-the-bronx.pdf))
+Sclavi: Why Understanding The Bronx Requires the Humorist's Touch. ({{% resource_link "5eb5e82c-c944-44c3-a4cd-782b6e96ab92" "PDF" %}})
 
 Hajer, Maaren, A. "Setting the Stage, a Dramaturgy of Policy Deliberation." _Administration and Society_ 36, no. 6 (January 2005): 624-647. Thousand Oaks, CA: Sage Publications.
 
@@ -98,7 +98,7 @@ Roberts, Nancy. "Organizing for Peace Operations." _Public Management Review_ 7,
 
 Jakes, Susan. "Dabbling in Democracy." _Time_, August 25, 2005, 12.
 
-Reuben, Richard. "Faculty Focus: Democracy and Dispute Resolution: The Problem With Arbitration." Abstract. _Issues and Interests_ 4, no. 2 (Spring 2003): 3. University of Missouri-Columbia School of Law The Center for the Study of Dispute Resolution. ([PDF](http://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1324&context=lcp))
+Reuben, Richard. "Faculty Focus: Democracy and Dispute Resolution: The Problem With Arbitration." Abstract. _Issues and Interests_ 4, no. 2 (Spring 2003): 3. University of Missouri-Columbia School of Law The Center for the Study of Dispute Resolution. ({{% resource_link "b2c7664f-8f3b-4275-bf5f-0af9a464d765" "PDF" %}})
 
 Reuben, Richard. "Democracy and Dispute Resolution: The Problem With Arbitration." _Law and Contemporary Problems_ 62, no. 4 (2004): 101-142.
 
