@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the reflections on the workshop on deliberative
   democracy and dispute resolution at MIT by Susan Sherry.
 file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/a0e49c3c44efcd25d84bf3c8f205e0a8_sherry_ref.pdf
+file_size: 78428
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
