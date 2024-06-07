@@ -4,6 +4,7 @@ description: This resource conatains information on the topic - National-level C
   Building and its details like - process, criteria for deliberative democracy and
   bias in mediation.
 file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/951de1ad287745e297e7aaee01bb8a3f_session4.pdf
+file_size: 88881
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

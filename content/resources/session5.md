@@ -6,6 +6,7 @@ description: This resource contains information on the topic - Implementation of
   between dispute resolution and deliberative democracy, location and bias, resistance,
   remaining questions and takeaway.
 file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/42c915d0dcd28db8bdb7d3eb95a796df_session5.pdf
+file_size: 103190
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

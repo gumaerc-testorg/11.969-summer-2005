@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the reflections on the workshop on deliberative
   democracy and dispute resolution at MIT by Maarten Hajer.
 file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/e636b0a5ecf6a915b73ce27ac3f7b188_hajer_ref.pdf
+file_size: 75770
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

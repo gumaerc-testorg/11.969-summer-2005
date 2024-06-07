@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the reflections on the workshop on deliberative
   democracy and dispute resolution at MIT by David Laws.
 file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/7748c9d5149ded6191a9578305569d02_laws_ref.pdf
+file_size: 86485
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

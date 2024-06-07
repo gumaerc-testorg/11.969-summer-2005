@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the reflections on the workshop on deliberative
   democracy and dispute resolution at MIT by Dan Yankelovich.
 file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/7275a73df12c118ed1b88049d6e938c5_yankelovich_ref.pdf
+file_size: 65279
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the reflections on the workshop on deliberative
   democracy and dispute resolution at MIT by Frank Fischer.
 file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/5788e7c2605471087fd41bf2e611a714_fischer_ref.pdf
+file_size: 72645
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

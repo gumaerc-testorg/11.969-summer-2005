@@ -3,6 +3,7 @@ content_type: resource
 description: This resuorce contains information on the various participants' reactions
   on the workshop topic - deliberative democracy and dispute resolution at MIT.
 file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/a08dd739c00205f8d65d59d4b6054e44_reflections.pdf
+file_size: 515553
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
