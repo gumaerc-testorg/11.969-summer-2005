@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the reflections on the workshop on deliberative
   democracy and dispute resolution at MIT by Marianella Sclavi.
-file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/3e3da09f26db6e78b5ebe185ead7f445_sclavi_ref.pdf
+file: /ol-ocw-studio-app/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/3e3da09f26db6e78b5ebe185ead7f445_sclavi_ref.pdf
 file_size: 73260
 file_type: application/pdf
 learning_resource_types: []

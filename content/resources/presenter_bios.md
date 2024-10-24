@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on the workshop participants of the
   course.
-file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/26d65673efb196b8f077cdfc6008892f_presenter_bios.pdf
+file: /ol-ocw-studio-app/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/26d65673efb196b8f077cdfc6008892f_presenter_bios.pdf
 file_size: 114808
 file_type: application/pdf
 learning_resource_types:
