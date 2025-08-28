@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains information on a specific scenario - Metropolitan
   Policy-Making, and the various details like - need for change, process, role of
   mediator, learning: individual and time-scale and continuous process.'
-file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/edb4d48699aea2f1f5e100124829128f_session3.pdf
+file: /ol-ocw-studio-app/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/edb4d48699aea2f1f5e100124829128f_session3.pdf
 file_size: 91841
 file_type: application/pdf
 learning_resource_types:

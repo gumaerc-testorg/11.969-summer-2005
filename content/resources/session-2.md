@@ -3,7 +3,7 @@ content_type: resource
 description: ''
 end_time: ''
 file: null
-file_size: null
+file_size: 7395201
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -19,7 +19,7 @@ start_time: ''
 title: 'Session 2: The Public Will and Representative Democracy'
 uid: 5369ba9b-cb70-34b2-12fa-9a42eef56df1
 video_files:
-  archive_url: http://www.archive.org/download/MIT11.969SUM05/ocw-11.969-clip2-220k.mp4
+  archive_url: https://ia801304.us.archive.org/34/items/MIT11.969SUM05/ocw-11.969-clip2-220k_512kb.mp4
   video_captions_file: null
   video_thumbnail_file: https://img.youtube.com/vi/ZR-BWj_sMV0/default.jpg
   video_transcript_file: null
