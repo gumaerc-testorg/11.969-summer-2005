@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the reflections on the workshop on deliberative
   democracy and dispute resolution at MIT by Josh Cohen.
-file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/1b7638076e24cddaec97980fad9bc287_cohen_ref.pdf
+file: /ol-ocw-studio-app/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/1b7638076e24cddaec97980fad9bc287_cohen_ref.pdf
 file_size: 67380
 file_type: application/pdf
 learning_resource_types: []

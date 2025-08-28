@@ -4,7 +4,7 @@ description: 'This resource contains the following topics: need for change, cont
   process, location, unjust process, bias in mediation, resistance, time scale, learning
   and opinion to judgment, learning and opinion to judgment, and what was missing
   from the workshop discussion.'
-file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/c5975c607c0c960fb73adc3c2a16f8d6_summary.pdf
+file: /ol-ocw-studio-app/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/c5975c607c0c960fb73adc3c2a16f8d6_summary.pdf
 file_size: 84694
 file_type: application/pdf
 learning_resource_types:
