@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the reflections on the workshop on deliberative
   democracy and dispute resolution at MIT by David Booher.
-file: /courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/c69f654273bf9830500796bbb8b01c1e_booher_ref.pdf
+file: /ol-ocw-studio-app/courses/11-969-workshop-on-deliberative-democracy-and-dispute-resolution-summer-2005/c69f654273bf9830500796bbb8b01c1e_booher_ref.pdf
 file_size: 92895
 file_type: application/pdf
 learning_resource_types: []
